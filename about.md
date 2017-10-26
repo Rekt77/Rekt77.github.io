@@ -4,9 +4,10 @@ title: About
 tagline: A few more words about this theme
 permalink: /about.html
 ---
-
+#JOB
 Python Developer, Security Consultant
-Email : timtaeil@gmail.com
-Name  : Tae-il, Lee
+
+#INFO
+Name  : Tae-il, Lee / 1993 / KOR
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
