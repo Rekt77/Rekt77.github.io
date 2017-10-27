@@ -4,7 +4,7 @@ title: "Python Challenge prob 0"
 ---
 
 
-[http://www.pythonchallenge.com/pc/def/0.html](http://www.pythonchallenge.com/pc/def/0.html)
+#### 링크 : [http://www.pythonchallenge.com/pc/def/0.html](http://www.pythonchallenge.com/pc/def/0.html)
 
 위의 링크를 통해 Python Challenge 0번 문제에 접근 할 수 있다.
 

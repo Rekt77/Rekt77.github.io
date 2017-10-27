@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Github 블로그 만들기"
+title: "Python Challenge prob 3"
 ---
 
 
